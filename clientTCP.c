@@ -1,3 +1,6 @@
+//Maintenant : créer le socket (3.3)
+
+
 /********************************************************
  * * nom : clientTCP.c
  * * Auteur : AF 16/09/2023
