@@ -1,8 +1,8 @@
 /********************************************************
 * * nom : serveur.c
-* * Auteur : NG 15/12/2023
+* * Auteur : NetCo 15/12/2023
 * * version : 0.1
-* * descr : serveur TCP echo
+* * descr : serveur TCP echo ipv6
 * * licence : GPL
 *********************************************************/
 #include <stdio.h>
