@@ -53,6 +53,7 @@ int main(int argc, char **argv) {
     }
 
     printf("Serveur en attente de connexions...\n");
+    printf("\n");
 
     while (1) {
         // Accepter une nouvelle connexion
@@ -90,6 +91,9 @@ int main(int argc, char **argv) {
         }
 
         printf("Données renvoyées : %s\n", buffer);
+
+        printf("________________________________\n");
+        printf("\n");
 
         // Fermer la socket de la nouvelle connexion
         close(newsockfd);
